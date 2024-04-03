@@ -43,7 +43,7 @@ Next step is to just create groups in the database.
 
 ## 💻 
 
-- [Utsav Prasad](https://codeninja02.netlify.app/)
+-
 
 ## 🔗 Social Links
 
