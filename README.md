@@ -41,14 +41,14 @@ Set up your firebase configurations in the `firebase.js` file.
 
 Next step is to just create groups in the database.
 
-## 💻 Author
+## 💻 
 
 - [Utsav Prasad](https://codeninja02.netlify.app/)
 
 ## 🔗 Social Links
 
-- [Instagram](https://www.instagram.com/codeninja02/)
-- [Twitter](https://twitter.com/codeninja02/)
-- [Website](https://codeninja02.netlify.app/)
+- [Instagram]()
+- [Twitter]()
+- [Website]()
 
 
